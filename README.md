@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff,ff4fd8&height=120&section=footer"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4fd8,8f00ff&height=230&section=header&text=AkiraYotsu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lazy%20frontend%20Developer%20still%20studying&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF61F6&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github+Profile+%F0%9F%92%AB;Progressing+Frontend+Developer+%F0%9F%9A%80;Learning+Node.js+and+Building+Cool+Stuff+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+Python"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF61F6&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github+Profile+%F0%9F%92%AB;Progressing+Frontend+Developer+;Learning+Node.js+and+Building+Cool+Stuff;HTML+%7C+CSS+%7C+JavaScript+%7C+Python"/>
 
 </div>
 
@@ -14,9 +14,28 @@
 const akira = {
   location: "Indonesia",
   status: "Learning Software Engineering",
-  currentlyLearning: ["Node.js", "Frontend Development"],
-  skills: ["HTML", "CSS", "JavaScript", "Python"],
-  funFact: "I love anime, music, and create programs ✨"
+
+  currentlyLearning: [
+    "JavaScript",
+    "Node.js",
+    "Frontend Development"
+  ],
+
+  futureLearning: [
+    "Next.js",
+    "TypeScript",
+    "MongoDB",
+    "Game Development"
+  ],
+
+  skills: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python"
+  ],
+
+  funFact: "I love anime, music, and building random things ✨"
 }
 ```
 
@@ -63,8 +82,6 @@ const akira = {
 - Action 🗡
 - Shounen 🔮
 - Comedy 🎭
-
----
 
 <div align="center">
 
