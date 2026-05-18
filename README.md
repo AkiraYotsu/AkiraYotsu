@@ -8,7 +8,11 @@
 
 ---
 
-## 🌸 About Me
+## 🌸 About me
+
+---
+
+## 👤 My Biography 
 
 ```js
 const akira = {
@@ -58,9 +62,11 @@ const akira = {
 
 ---
 
-## 🔥 Contribution
+## 💻 Contribution
 
 <div align="center">
+
+**My contribution since I started..**
 
 <img src="https://streak-stats.demolab.com?user=AkiraYotsu&theme=tokyonight&hide_border=true"/>
 
@@ -70,10 +76,14 @@ const akira = {
 
 ## 🌌 Currently
 
-- 🌱 Learning some Languages
-- 📝 Building Learning websites
-- ⚡ Exploring JavaScript deeper
-- 🚀 Trying become an Frontend Developer
+- **Learning some Languages**
+  <br><sub>I just found out and learned several programming languages, currently I am studying and deepening them all one by one.</sub>
+- **Building Learning websites**
+  <br><sub>I learned coding and programming languages through a self-made personal website, where I wrote down what I learned so I could remember and apply it.</sub>
+- **Exploring JavaScript deeper**
+  <br><sub>I'm just learning the JavaScript programming language and I'm trying to learn more to become proficient in its use.</sub>
+- **Trying become an Frontend Developer**
+  <br><sub>I want to be a Frontend Developer who designs a program that I create myself.</sub>
 
 ---
 
