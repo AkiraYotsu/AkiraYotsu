@@ -33,23 +33,12 @@ const akira = {
 <p>And these are the programming languages I want to learn more about, Yeah honestly i can't say like that to because I haven't even touched some of them hehe, but I'll try all of them. </p>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,go,java,mongo" />
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkiraYotsu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraYotsu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://skillicons.dev/icons?i=nodejs,go,java,mongodb" />
 
 </div>
-
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution
 
 <div align="center">
 
