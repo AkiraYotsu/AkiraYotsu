@@ -55,7 +55,7 @@ const akira = {
 | <img src="https://skillicons.dev/icons?i=python" /> |
 | <img src="https://skillicons.dev/icons?i=nodejs" /> |
 | <img src="https://skillicons.dev/icons?i=java" /> |
-| <img src="https://skillicons.dev/icons?i=c" /> |
+| <img src="https://skillicons.dev/icons?i=cpp" /> |
 | <img src="https://skillicons.dev/icons?i=go" /> |
 
 <p>I've just started learning some of these programming languages, I can't say I've mastered them yet because I'm still trying out a lot of things. </p>
