@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4fd8,8f00ff&height=230&section=header&text=AkiraYotsu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lazy%20frontend%20Developer%20still%20studying&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4fd8,8f00ff&height=230&section=header&text=AkiraYotsu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lazy%20Frontend%20Developer%20still%20studying&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=9OD5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github+Profile+%F0%9F%92%AB;Progressing+Frontend+Developer+;Learning+Node.js+and+Building+Cool+Stuff;HTML+%7C+CSS+%7C+JavaScript+%7C+Python"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff,ff4fd8&height=120&section=footer"/>
@@ -49,15 +49,15 @@ const akira = {
 
 | Logo | Language | 
 |:-----|:--------:|
-| <img src="https://skillicons.dev/icons?i=html" /> |  
-| <img src="https://skillicons.dev/icons?i=css" /> |
-| <img src="https://skillicons.dev/icons?i=js" /> |
-| <img src="https://skillicons.dev/icons?i=python" /> |
-| <img src="https://skillicons.dev/icons?i=nodejs" /> |
-| <img src="https://skillicons.dev/icons?i=java" /> |
-| <img src="https://skillicons.dev/icons?i=cpp" /> |
-| <img src="https://skillicons.dev/icons?i=go" /> |
-| <img src="https://skillicons.dev/icons?i=ts" /> |
+| <img src="https://skillicons.dev/icons?i=html" /> |  HTML |
+| <img src="https://skillicons.dev/icons?i=css" /> | CSS |
+| <img src="https://skillicons.dev/icons?i=js" /> | JavaScript |
+| <img src="https://skillicons.dev/icons?i=python" /> | Python |
+| <img src="https://skillicons.dev/icons?i=nodejs" /> | Node.js |
+| <img src="https://skillicons.dev/icons?i=java" /> | Java |
+| <img src="https://skillicons.dev/icons?i=cpp" /> | C++ |
+| <img src="https://skillicons.dev/icons?i=go" /> | GO |
+| <img src="https://skillicons.dev/icons?i=ts" /> | TypeScript |
 
 <p>I've just started learning some of these programming languages, I can't say I've mastered them yet because I'm still trying out a lot of things. </p>
 <div align="center">
