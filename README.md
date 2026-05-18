@@ -28,6 +28,7 @@ const akira = {
   futureLearning: [
     "C++",
     "TypeScript",
+    "React",
     "MongoDB",
     "Game Development"
   ],
@@ -45,19 +46,22 @@ const akira = {
 
 ---
 
-## 💻 Language proficiency 
+## 💻 Language Proficiency 
+<p>I want to learn so many programming languages from the easiest to the hardest, I listed them all in the section that I have learned, are learning and also those that have not been learned, the content of the programming languages that I am currently targeting.</p>
 
-| Logo | Language | 
-|:-----|:--------:|
-| <img src="https://skillicons.dev/icons?i=html" /> |  HTML |
-| <img src="https://skillicons.dev/icons?i=css" /> | CSS |
-| <img src="https://skillicons.dev/icons?i=js" /> | JavaScript |
-| <img src="https://skillicons.dev/icons?i=python" /> | Python |
-| <img src="https://skillicons.dev/icons?i=nodejs" /> | Node.js |
-| <img src="https://skillicons.dev/icons?i=java" /> | Java |
-| <img src="https://skillicons.dev/icons?i=cpp" /> | C++ |
-| <img src="https://skillicons.dev/icons?i=go" /> | GO |
-| <img src="https://skillicons.dev/icons?i=ts" /> | TypeScript |
+### Languages Table
+
+| Logo | Language | Status | Description |
+|:-----|:--------:|:------:|------------:|
+| <img src="https://skillicons.dev/icons?i=html" /> |  HTML | _Learning_ |
+| <img src="https://skillicons.dev/icons?i=css" /> | CSS | `Learned` |
+| <img src="https://skillicons.dev/icons?i=js" /> | JavaScript | _Learning_ |
+| <img src="https://skillicons.dev/icons?i=ts" /> | TypeScript | **Not yet** |
+| <img src="https://skillicons.dev/icons?i=python" /> | Python | _Learning_ |
+| <img src="https://skillicons.dev/icons?i=nodejs" /> | Node.js | _Learning_ |
+| <img src="https://skillicons.dev/icons?i=java" /> | Java | **Not yet** |
+| <img src="https://skillicons.dev/icons?i=cpp" /> | C++ | **Not yet** |
+| <img src="https://skillicons.dev/icons?i=go" /> | GO | **Not yet** |
 
 <p>I've just started learning some of these programming languages, I can't say I've mastered them yet because I'm still trying out a lot of things. </p>
 <div align="center">
@@ -74,7 +78,7 @@ const akira = {
 
 ---
 
-## 💻 Contribution
+## 📊 Contribution
 
 <div align="center">
 
