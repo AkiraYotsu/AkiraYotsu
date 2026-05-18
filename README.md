@@ -47,13 +47,13 @@ const akira = {
 ---
 
 ## 💻 Language Proficiency 
-<p>I want to learn so many programming languages from the easiest to the hardest, I listed them all in the section that I have learned, are learning and also those that have not been learned, the content of the programming languages that I am currently targeting.</p>
+<p>I want to learn so many programming languages from the easiest to the hardest, I listed them all in the section that I have learned, are learning and also those that have not been learned, and here the content of the programming languages that I am currently targeting.</p>
 
 ### Languages Table
 
 | Logo | Language | Status | Description |
-|:-----|:--------:|:------:|------------:|
-| <img src="https://skillicons.dev/icons?i=html" /> |  HTML | _Learning_ |
+|:-----|:--------:|:------:|:------------|
+| <img src="https://skillicons.dev/icons?i=html" /> |  HTML | _Learning_ | I've learned how HTML works but I still want to delve into some tags and attributes. |
 | <img src="https://skillicons.dev/icons?i=css" /> | CSS | `Learned` |
 | <img src="https://skillicons.dev/icons?i=js" /> | JavaScript | _Learning_ |
 | <img src="https://skillicons.dev/icons?i=ts" /> | TypeScript | **Not yet** |
@@ -64,17 +64,6 @@ const akira = {
 | <img src="https://skillicons.dev/icons?i=go" /> | GO | **Not yet** |
 
 <p>I've just started learning some of these programming languages, I can't say I've mastered them yet because I'm still trying out a lot of things. </p>
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python" />
-
-</div>
-<p>And these are the programming languages I want to learn more about, Yeah honestly i can't say like that to because I haven't even touched some of them hehe, but I'll try all of them. </p>
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,go,java,mongodb" />
-
-</div>
 
 ---
 
