@@ -41,7 +41,7 @@ const akira = {
 
 ---
 
-## 💻 Tech Stack
+## 💻 Language proficiency 
 
 <p>I've just started learning some of these programming languages, I can't say I've mastered them yet because I'm still trying out a lot of things. </p>
 <div align="center">
