@@ -1,16 +1,84 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AkiraYotsu/AkiraYotsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4fd8,8f00ff&height=230&section=header&text=AkiraYotsu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lazy%20frontend%20Developer%20still%20studying&descAlignY=60"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF61F6&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github+Profile+%F0%9F%92%AB;Progressing+Frontend+Developer+%F0%9F%9A%80;Learning+Node.js+and+Building+Cool+Stuff+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+Python"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🌸 About Me
+
+```js
+const akira = {
+  location: "Indonesia",
+  status: "Learning Software Engineering",
+  currentlyLearning: ["Node.js", "Frontend Development"],
+  skills: ["HTML", "CSS", "JavaScript", "Python"],
+  funFact: "I love anime, music, and create programs ✨"
+}
+```
+
+---
+
+## 💻 Tech Stack
+
+<p>I've just started learning some of these programming languages, I can't say I've mastered them yet because I'm still trying out a lot of things. </p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+
+</div>
+<p>And these are the programming languages I want to learn more about, Yeah honestly i can't say like that to because I haven't even touched some of them hehe, but I'll try all of them. </p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,go,java,mongo" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkiraYotsu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraYotsu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AkiraYotsu&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌌 Currently
+
+- 🌱 Learning some Languages
+- 📝 Building Learning websites
+- ⚡ Exploring JavaScript deeper
+- 🚀 Trying become an Frontend Developer
+
+---
+
+## ⛩️ Favorite Anime Vibes
+
+- Romance ❤️
+- Action 🗡
+- Shounen 🔮
+- Comedy 🎭
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff,ff4fd8&height=120&section=footer"/>
+
+</div>
