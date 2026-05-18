@@ -26,7 +26,7 @@ const akira = {
   ],
 
   futureLearning: [
-    "Next.js",
+    "C++",
     "TypeScript",
     "MongoDB",
     "Game Development"
@@ -47,10 +47,16 @@ const akira = {
 
 ## 💻 Language proficiency 
 
-| Tes |
-|:----|
-|```JavaScript```
-|
+| Logo | Language | 
+|:-----|:--------:|
+| <img src="https://skillicons.dev/icons?i=html" /> |  
+| <img src="https://skillicons.dev/icons?i=css" /> |
+| <img src="https://skillicons.dev/icons?i=js" /> |
+| <img src="https://skillicons.dev/icons?i=python" /> |
+| <img src="https://skillicons.dev/icons?i=nodejs" /> |
+| <img src="https://skillicons.dev/icons?i=java" /> |
+| <img src="https://skillicons.dev/icons?i=c" /> |
+| <img src="https://skillicons.dev/icons?i=go" /> |
 
 <p>I've just started learning some of these programming languages, I can't say I've mastered them yet because I'm still trying out a lot of things. </p>
 <div align="center">
