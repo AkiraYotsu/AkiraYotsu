@@ -9,6 +9,9 @@
 ---
 
 ## 🌸 About me
+Hi, i'm M****
+I'm just someone who is new to learning about programming. 
+
 
 ---
 
@@ -54,14 +57,14 @@ const akira = {
 | Logo | Language | Status | Description |
 |:-----|:--------:|:------:|:------------|
 | <img src="https://skillicons.dev/icons?i=html" /> |  HTML | _Learning_ | I've learned how HTML works but I still want to delve into some tags and attributes. |
-| <img src="https://skillicons.dev/icons?i=css" /> | CSS | `Learned` |
-| <img src="https://skillicons.dev/icons?i=js" /> | JavaScript | _Learning_ |
-| <img src="https://skillicons.dev/icons?i=ts" /> | TypeScript | **Not yet** |
-| <img src="https://skillicons.dev/icons?i=python" /> | Python | _Learning_ |
-| <img src="https://skillicons.dev/icons?i=nodejs" /> | Node.js | _Learning_ |
-| <img src="https://skillicons.dev/icons?i=java" /> | Java | **Not yet** |
-| <img src="https://skillicons.dev/icons?i=cpp" /> | C++ | **Not yet** |
-| <img src="https://skillicons.dev/icons?i=go" /> | GO | **Not yet** |
+| <img src="https://skillicons.dev/icons?i=css" /> | CSS | `Learned` | I've learned how this actually this language works. |
+| <img src="https://skillicons.dev/icons?i=js" /> | JavaScript | _Learning_ | I'm still learning about the various things here. |
+| <img src="https://skillicons.dev/icons?i=ts" /> | TypeScript | **Not yet** | *I've never used it at all.* |
+| <img src="https://skillicons.dev/icons?i=python" /> | Python | _Learning_ | I've only just learned the basics of how it works. |
+| <img src="https://skillicons.dev/icons?i=nodejs" /> | Node.js | _Learning_ | I'm in the process of learning a similar programming language so this is a given. |
+| <img src="https://skillicons.dev/icons?i=java" /> | Java | **Not yet** | *I've never used it at all.* |
+| <img src="https://skillicons.dev/icons?i=cpp" /> | C++ | **Not yet** | *I've never used it at all.* |
+| <img src="https://skillicons.dev/icons?i=go" /> | GO | **Not yet** | *I've never used it at all.* |
 
 <p>I've just started learning some of these programming languages, I can't say I've mastered them yet because I'm still trying out a lot of things. </p>
 
@@ -80,6 +83,7 @@ const akira = {
 ---
 
 ## 🌌 Currently
+<p>What I'm currently trying and interested in:</p>
 
 - **Learning some Languages**
   <br><sub>I just found out and learned several programming languages, currently I am studying and deepening them all one by one.</sub>
@@ -90,14 +94,8 @@ const akira = {
 - **Trying become an Frontend Developer**
   <br><sub>I want to be a Frontend Developer who designs a program that I create myself.</sub>
 
----
+> I'm not saying this is always true because sometimes I won't update it, but there are a lot of things I'm currently looking forward to trying. 
 
-## ⛩️ Favorite Anime Vibes
-
-- Romance ❤️
-- Action 🗡
-- Shounen 🔮
-- Comedy 🎭
 
 <div align="center">
 
