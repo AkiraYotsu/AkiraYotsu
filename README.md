@@ -79,7 +79,7 @@ const akira = {
 
 ---
 
-## 📊 Contribution
+## 📊 Stats
 
 <div align="center">
 
@@ -87,9 +87,13 @@ const akira = {
 
 <img src="https://raw.githubusercontent.com/AkiraYotsu/snake/output/github-contribution-grid-snake.svg"/>
 
+**My contribution streak..**
+
 <img src="https://streak-stats.demolab.com?user=AkiraYotsu&theme=tokyonight&hide_border=true"/>
 
 <br>
+
+**Visitor count..**
 
 <img alt="Cute Count" src="https://count.getloli.com/get/@AkiraYotsu?theme=asoul"/>
 
