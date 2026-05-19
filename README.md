@@ -9,8 +9,12 @@
 ---
 
 ## 🌸 About me
-Hi, i'm M****
-I'm just someone who is new to learning about programming. 
+Hi, i'm **Malik**<br>
+I'm just someone who is new to learning about programming. <br>
+I live in **Indonesia, West Sumatra**.<br>
+My birthday: **April 4th**<br>
+I have a goal to become a `Frontend Developer` and create my own program. 
+
 
 
 ---
@@ -19,7 +23,7 @@ I'm just someone who is new to learning about programming.
 
 ```js
 const akira = {
-  location: "Indonesia",
+  location: "Indonesia,westSumatra",
   status: "Learning Software Engineering",
 
   currentlyLearning: [
@@ -78,7 +82,7 @@ const akira = {
 
 <img src="https://streak-stats.demolab.com?user=AkiraYotsu&theme=tokyonight&hide_border=true"/>
 
-<img alt="Cute Count" src="https://count.getloli.com/get/@AkiraYotsu?theme=rule34"/>
+<img alt="Cute Count" src="https://count.getloli.com/get/@AkiraYotsu?theme=asoul"/>
 
 </div>
 
