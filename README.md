@@ -123,7 +123,7 @@ const akira = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff,ff4fd8&height=120&section=header"/>
 
-[![Github](https://img.shields.io/badge/AkiraYotsu-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkiraYotsu)
+[![AkiraYotsu](https://img.shields.io/badge/AkiraYotsu-black?style=flat&logo=github&logoColor=white)](https://github.com/AkiraYotsu)
 
 **Visitor count..**
 
