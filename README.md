@@ -9,11 +9,16 @@
 ---
 
 ## 🌸 About me
-Hi, i'm **Malik**<br>
+Hi, i'm **Malik**:<br>
+<br>
+As known as: `Kaza`<br>
 I'm just someone who is new to learning about programming. <br>
 I live in **Indonesia, West Sumatra**.<br>
 My birthday: **April 4th**<br>
-I have a goal to become a `Frontend Developer` and create my own program. 
+<br>
+I have a goal to become a `Frontend Developer` and create my own program.<br>
+I like watching Anime, listening to Music and making programs.<br>
+What got me interested in this field? When I learn something and try it and it works, I think it's exciting. 
 
 
 
@@ -81,6 +86,8 @@ const akira = {
 **My contribution since I started..**
 
 <img src="https://streak-stats.demolab.com?user=AkiraYotsu&theme=tokyonight&hide_border=true"/>
+
+<br>
 
 <img alt="Cute Count" src="https://count.getloli.com/get/@AkiraYotsu?theme=asoul"/>
 
