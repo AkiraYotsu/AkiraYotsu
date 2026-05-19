@@ -83,19 +83,21 @@ const akira = {
 
 <div align="center">
 
-**My contribution since I started..**
-
-<img src="https://raw.githubusercontent.com/AkiraYotsu/snake/output/github-contribution-grid-snake.svg"/>
-
 **My contribution streak..**
 
-<img src="https://streak-stats.demolab.com?user=AkiraYotsu&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AkiraYotsu&theme=tokyonight&hide_border=true"/><br>
 
-<br>
+**My contribution since I started..**
 
-**Visitor count..**
+<img src="https://raw.githubusercontent.com/AkiraYotsu/snake/output/github-contribution-grid-snake.svg"/><br>
 
-<img alt="Cute Count" src="https://count.getloli.com/get/@AkiraYotsu?theme=asoul"/>
+**My contribution graph..**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkiraYotsu&theme=tokyo-night"/>
+
+**My trophy or achivement record..**
+
+<img src="https://github-profile-trophy.vercel.app/?username=AkiraYotsu&theme=tokyonight"/>
 
 </div>
 
@@ -115,9 +117,13 @@ const akira = {
 
 > I'm not saying this is always true because sometimes I won't update it, but there are a lot of things I'm currently looking forward to trying. 
 
+---
 
 <div align="center">
 
+**Visitor count..**
+
+<img alt="Cute Count" src="https://count.getloli.com/get/@AkiraYotsu?theme=asoul"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff,ff4fd8&height=120&section=footer"/>
 
 </div>
