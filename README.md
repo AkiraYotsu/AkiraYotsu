@@ -124,6 +124,6 @@ const akira = {
 **Visitor count..**
 
 <img alt="Cute Count" src="https://count.getloli.com/get/@AkiraYotsu?theme=asoul"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff,ff4fd8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff,ff4fd8&height=150&section=footer&text=See%20you%20again&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
 
 </div>
