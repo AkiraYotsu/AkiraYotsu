@@ -85,7 +85,7 @@ const akira = {
 
 **My contribution since I started..**
 
-<img src="https://raw.githubusercontent.com/AkiraYotsu/snake/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/AkiraYotsu/snake/output/github-contribution-grid-snake.svg"/>
 
 <img src="https://streak-stats.demolab.com?user=AkiraYotsu&theme=tokyonight&hide_border=true"/>
 
