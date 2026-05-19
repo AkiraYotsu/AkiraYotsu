@@ -78,6 +78,8 @@ const akira = {
 
 <img src="https://streak-stats.demolab.com?user=AkiraYotsu&theme=tokyonight&hide_border=true"/>
 
+<img alt="Cute Count" src="https://count.getloli.com/get/@AkiraYotsu?theme=rule34"/>
+
 </div>
 
 ---
