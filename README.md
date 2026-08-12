@@ -75,7 +75,7 @@ const akira = {
 | <img src="https://skillicons.dev/icons?i=nodejs" /> | Node.js | _Learning_ | I'm in the process of learning a similar programming language so this is a given. |
 | <img src="https://skillicons.dev/icons?i=java" /> | Java | **Not yet** | *I've never used it at all.* |
 | <img src="https://skillicons.dev/icons?i=cpp" /> | C++ | **Not yet** | *I've never used it at all.* |
-| <img src="https://skillicons.dev/icons?i=go" /> | GO | **Not yet** | *I've never used it at all.* |
+| <img src="https://skillicons.dev/icons?i=go" /> | GO | _Learning_ | I recently tried this language, because I heard about its fast data processing system. |
 
 <p>I've just started learning some of these programming languages, I can't say I've mastered them yet because I'm still trying out a lot of things. </p>
 
@@ -114,8 +114,8 @@ const akira = {
   <br><sub>I learned coding and programming languages through a self-made personal website, where I wrote down what I learned so I could remember and apply it.</sub>
 - **Exploring JavaScript deeper**
   <br><sub>I'm just learning the JavaScript programming language and I'm trying to learn more to become proficient in its use.</sub>
-- **Trying become an Frontend Developer**
-  <br><sub>I want to be a Frontend Developer who designs a program that I create myself.</sub>
+- **Trying become an Full Stack Developer**
+  <br><sub>I want to be a Full Stack Developer who designs a program and that I create myself.</sub>
 
 > I'm not saying this is always true because sometimes I won't update it, but there are a lot of things I'm currently looking forward to trying. 
 
