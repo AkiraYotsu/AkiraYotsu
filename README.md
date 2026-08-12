@@ -34,14 +34,15 @@ const akira = {
   currentlyLearning: [
     "JavaScript",
     "Node.js",
-    "Frontend Development"
+    "Frontend Development",
+    "Backend Development"
   ],
 
   futureLearning: [
     "C++",
     "TypeScript",
     "React",
-    "MongoDB",
+    "Go",
     "Game Development"
   ],
 
@@ -49,7 +50,8 @@ const akira = {
     "HTML",
     "CSS",
     "JavaScript",
-    "Python"
+    "MongoDB",
+    "Node.js"
   ],
 
   funFact: "I love anime, music, and building random things ✨"
