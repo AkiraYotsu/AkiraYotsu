@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4fd8,8f00ff&height=230&section=header&text=AkiraYotsu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lazy%20Frontend%20Developer%20still%20studying&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=9OD5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github+Profile+%F0%9F%8C%8A;Progressing+Frontend+Developer+;Learning+Node.js+and+Building+Cool+Stuff;HTML+%7C+CSS+%7C+JavaScript+%7C+Python"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=9OD5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github+Profile+%F0%9F%8C%8A;Progressing+Full+Stack+Developer+;Learning+Node.js+and+Building+Cool+Stuff;HTML+%7C+CSS+%7C+JavaScript+%7C+Python"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff,ff4fd8&height=120&section=footer"/>
 
 </div>
@@ -16,7 +16,7 @@ I'm just someone who is new to learning about programming. <br>
 I live in **Indonesia, West Sumatra**.<br>
 My birthday: **April 4th**<br>
 <br>
-I have a goal to become a `Frontend Developer` and create my own program.<br>
+I have a goal to become a `Full Stack Developer` and create my own program.<br>
 I like watching Anime, listening to Music and making programs.<br>
 What got me interested in this field? When I learn something and try it and it works, I think it's exciting. 
 
